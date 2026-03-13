@@ -1,6 +1,6 @@
 # 🌍 3D World Atlas — Plants, Volcanoes & Tsunamis
 
-> An interactive single-page web application that visualizes the most important plants per country, the world's 150 most significant volcanoes, and major tsunami events — all rendered on a real-time 3D globe.
+> An interactive single-page web application that visualizes the most important plants per country, the world's 115 most significant volcanoes, and major tsunami events — all rendered on a real-time 3D globe.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -37,7 +37,7 @@
 |---|---|
 | 🌐 **3D Globe** | Rotatable and zoomable Earth rendered with Three.js |
 | 🌿 **Country Plants** | Top 5 most important plants per country |
-| 🌋 **World Volcanoes** | 150 of the world's most significant active & historic volcanoes |
+| 🌋 **World Volcanoes** | 115 of the world's most significant active & historic volcanoes |
 | 🌊 **Tsunami Events** | Major historical tsunami locations with impact data |
 | 🖱️ **Interactive Layers** | Each data layer can be toggled on/off independently |
 | 📍 **Detail Panel** | Click any marker to open a rich info card |
@@ -109,7 +109,7 @@ Then visit `http://localhost:8080` in your browser.
 Use the panel in the top-right corner to toggle layers:
 
 - 🌿 **Plants** — Shows 5 plants per country (green markers)
-- 🌋 **Volcanoes** — 150 major volcanoes (orange / red markers)
+- 🌋 **Volcanoes** — 115 major volcanoes (orange / red markers)
 - 🌊 **Tsunamis** — Major tsunami source points (blue markers)
 
 ---
@@ -299,7 +299,7 @@ function showDetailPanel(data) {
 
 ### 🌋 Volcano Data
 - **Source:** [Smithsonian Institution — Global Volcanism Program](https://volcano.si.edu)
-- **Coverage:** 150 most significant volcanoes worldwide
+- **Coverage:** 115 most significant volcanoes worldwide
 - **Fields:** Name, coordinates, last eruption year, VEI index, country
 
 ### 🌊 Tsunami Data
