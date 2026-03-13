@@ -7,7 +7,15 @@
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
+## 🖼 Screenshots
 
+<img width="1919" height="941" alt="Image" src="https://github.com/user-attachments/assets/c737bc6e-ea89-4371-95e4-ec814e1e184f" />
+
+<img width="1906" height="949" alt="Image" src="https://github.com/user-attachments/assets/5eee02a6-a0a9-46e6-b846-2d7dcb344c43" />
+
+<img width="1883" height="926" alt="Image" src="https://github.com/user-attachments/assets/86ad58b5-a1a3-40d5-ae0a-bc2cc04466c1" />
+
+<img width="1896" height="851" alt="Image" src="https://github.com/user-attachments/assets/8ca1bccb-ab6f-400a-9ebf-b8eea3c3dcc8" />
 ## 📋 Table of Contents
 
 - [Features](#-features)
